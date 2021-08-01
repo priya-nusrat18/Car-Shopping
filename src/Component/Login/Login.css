@@ -1,0 +1,7 @@
+.optional-option button{
+    border:none;
+    text-decoration: underline;
+    text-decoration-color: #ff6e40;
+    color: #ff6e40;
+    background-color: white;
+}

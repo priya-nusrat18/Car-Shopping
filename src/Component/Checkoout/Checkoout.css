@@ -1,0 +1,11 @@
+.single-box {
+    padding: 10px 5px;
+    border: 1px solid #ddd;
+    background: #fff;
+    margin-top: 10px;
+}
+
+.single-box  h5 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "name": "Malibu",
+      "brand": "Chevrolet",
+      "price": 1758234.63,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUbGTcYo2TEYrIhiHgMYLiF33qs1RqxSONgYw7syHiWnuwmDHVHQmcCNKDMxIephC_aqU&usqp=CAU"
+     
+    },
+    {
+      "id": 2,
+      "name": "Avanti",
+      "brand": "Studebaker",
+      "price": 1903401.46,
+      "img": "https://freepngimg.com/thumb/audi/35-red-audi-png-car-image.png"
+    },
+    {
+      "id": 3,
+      "name": "Terraza",
+      "brand": "Buick",
+      "price": 91612.14,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMz2_PM-mI7BaiIotVPmcRlsbp6wISmpBkmQ8kaw6G8o_KFiG6jegEg56bUd8Mq1DMKc&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "S4",
+      "brand": "Audi",
+      "price":255168.81,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcs2-aSSBGHUu8LNDOhN5-xZfDrfH-uM4MOxwQ6EoEJ-bhMqYKpobyZbkV8TTf2Nyg2lg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "8 Series",
+      "brand": "BMW",
+      "price": 322037.50,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIL6_vvrkWp0L9jJiClclqx0dv84ofJR4xepsXFwrxvkca79zx6eiPyxn8b6eYicWpmo&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "S-Class",
+      "brand": "Mercedes-Benz",
+      "price": 796592.71,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCmIYp4c4Tzi7mqJNUWRIfC7OGPTzADTQfl7oG9P6oaIyB4BpPhZciL2vdxEHRq_hHD4&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "2500",
+      "brand": "Chevrolet",
+      "price": 1498350.71,
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/audi-tt-png-5.png"
+    },
+    {
+      "id": 8,
+      "name": "Escalade ESV",
+      "brand": "Cadillac",
+      "price": 1551541.35,
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/audi-tt-png-2.png"
+    },
+    {
+      "id": 9,
+      "name": "Tundra",
+      "brand": "Toyota",
+      "price": 146705.04,
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/audi-tt-png-3.png"
+    },
+    {
+      "id": 10,
+      "name": "Imperial",
+      "brand": "Chrysler",
+      "price": 1912609.64,
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/audi-tt-png-5.png"
+    },
+    {
+      "id": 11,
+      "name": "M3",
+      "brand": "BMW",
+      "price": 158485.38,
+      "img": "https://pngimage.net/wp-content/uploads/2018/05/audi-tt-png-4.png "
+    },
+    {
+      "id": 12,
+      "name": "Town Car",
+      "brand": "Lincoln",
+      "price": 111650.68,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCmIYp4c4Tzi7mqJNUWRIfC7OGPTzADTQfl7oG9P6oaIyB4BpPhZciL2vdxEHRq_hHD4&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "name": "Aura",
+      "brand": "Saturn",
+      "price": 145407.21,
+      "img": "https://www.pngkey.com/png/full/2-22815_car-png-transparent-images-car-image-hd-png.png"
+    },
+    {
+      "id": 14,
+      "name": "Bronco II",
+      "brand": "Ford",
+      "price": 235442.10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA96TlYq5khiog5iHBN4ZCaXAznK_G7dYG_A_KuJU0iTH9puxrDkJBrTwKKymM55y8ZDY&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "name": "Navigator L",
+      "brand": "Lincoln",
+      "price": 742115.98,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO79NVC_KR1EHvWbmctLx6_b4hGdGEc2SuspO_EzdpZi9NpNXDFLpo7pP9kAjDnJ73ZMw&usqp=CAU"
+    }
+  ]
+  
